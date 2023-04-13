@@ -1,11 +1,15 @@
 {
-  "id": "nebeltorsystem",
-  "version": "0.0.1",
-  "title": "Nebeltor System",  
-  "description": "Very test Nerold system for Nebeltor World v.04",  
+  "id": "worldbuilding",
+  "version": "0.7.2",
+  "title": "Simple World-Building",
+  "url": "https://gitlab.com/foundrynet/worldbuilding/",
+  "description": "A minimalist game system which provides configurable Actor and Item templates to support free-form system agnostic game-play.",
+  "license": "LICENSE.txt",
   "authors": [
     {
-      "name": "Nerold"
+      "name": "Atropos",
+      "url": "https://foundryvtt.com",
+      "flags": {}
     }
   ],
   "esmodules": [
@@ -31,5 +35,6 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "manifest": "https://github.com/crabonog/nebeltorsystem/blob/main/system.json"
+  "manifest": "https://raw.githubusercontent.com/foundryvtt/worldbuilding/master/system.json",
+  "download": "https://github.com/foundryvtt/worldbuilding/archive/refs/tags/release-072.zip"
 }
