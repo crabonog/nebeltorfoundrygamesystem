@@ -33,5 +33,6 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "manifest": "https://raw.githubusercontent.com/crabonog/nebeltorsystem/main/system.json"  
+  "manifest": "https://raw.githubusercontent.com/crabonog/nebeltorsystem/main/system.json",
+  "download": "https://github.com/crabonog/nebeltorsystem/archive/refs/tags/release-base.zip"  
 }
